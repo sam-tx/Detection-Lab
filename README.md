@@ -1,4 +1,4 @@
-# PROJECTNAME
+# DETECTION LAB
 
 ## Objective
 [Brief Objective - Remove this afterwards]
